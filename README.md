@@ -47,9 +47,9 @@ This project consisted in performing the segmentation of clients of a fictitious
 5.	In the end the best model find was K-means and we end up with 6 different clusters.
 
 # Data Visualization
-**Group Project for University**
-**Python**
-**https://visualization19.herokuapp.com/**
+**Group Project for University**<br/>
+**Python**<br/>
+**https://visualization19.herokuapp.com/**<br/>
 This goal for this project was to show how you managed and use visualization concepts and techniques to transform data into a meaningful interactive visualization. The Dataset picked for this project is called "World Happiness" and was found on Kaggle. The final version of the project was deployed in to "Herokuapp" and is possible to have a look in the link above.
 
 # Machine Learning
