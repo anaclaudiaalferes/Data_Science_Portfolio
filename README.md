@@ -1,4 +1,4 @@
-# Data_Science_Portfolio
+# Data Science Portfolio
 Portfolio with my Data Science and Advanced Analytics master projects
 # Business Cases Projects
 This folder contains projects made with real data (most of them), and they all aim at the following points:
