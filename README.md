@@ -29,7 +29,7 @@ The analyzed data belong to a hotel and the goal for this project was to build a
 ## Demand Forecasting
 **Group Project for University**<br/>
 **Python**<br/>
-The data for this project was private so i can only provide the report and presentation
+**The data for this project was private so i can only provide the report and presentation**<br/>
 The analyzed data belong to a transfer service and the goal for this project was to build a model to weekly forecast the number of services according the business objectives. The steps were:
 1.	Data exploratory analysis to try to find interesting patterns, taking advantage of data visualization to demonstrate any relevant patterns.
 2.	Preprocessing the data and feature engineering.
