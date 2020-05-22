@@ -5,12 +5,12 @@ Portfolio with my Data Science and Advanced Analytics master projects
 # Big Data Modelling and Management Projects
 This folder contains different projects on how to handle No-SQL Databases.
 
-## Homework1
+## Neo4J
 **Group Project for University**<br/>
 **Python**; **Neo4j** software and **Redis** software <br/>
 For this project we had to explore a graph database, avaible on kaggle, to analyse beer and breweries via python neo4j connector and/or the graphical tool in the NEO4J webpage. In the end we had to submit the answers in a Redis database. 
 
-## Homework2 
+## MongoDB
 **Group Project for University**<br/>
 **Python**; **MongoDB** software and **Robo3t** software  <br/>
 For this first project we explored a european public procurement notices database to analyse contracts and money expenditure within the European Union. The goal was to explore the database via python’s mongoDB connector and/or the ROBO3T software. In the end we submit the answers in a separed MongoDB database.
