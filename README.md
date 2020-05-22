@@ -1,5 +1,21 @@
 # Data Science Portfolio
 Portfolio with my Data Science and Advanced Analytics master projects
+
+
+# Big Data Modelling and Management Projects
+This folder contains different projects on how to handle No-SQL Databases.
+
+## Homework1
+**Group Project for University**<br/>
+**Python**; **Neo4j** software and **Redis** software <br/>
+For this project we had to explore a graph database, avaible on kaggle, to analyse beer and breweries via python neo4j connector and/or the graphical tool in the NEO4J webpage. In the end we had to submit the answers in a Redis database. 
+
+## Homework2 
+**Group Project for University**<br/>
+**Python**; **MongoDB** software and **Robo3t** software  <br/>
+For this first project we explored a european public procurement notices database to analyse contracts and money expenditure within the European Union. The goal was to explore the database via python’s mongoDB connector and/or the ROBO3T software. In the end we submit the answers in a separed MongoDB database.
+
+
 # Business Cases Projects
 This folder contains projects made with real data (most of them), and they all aim at the following points:
 - Model business cases in accordance to the CRISP-DM process model
@@ -80,7 +96,7 @@ The analyzed dataset it's from Kaggle and is about cereals and their public rati
 2. Apply methods to extract information about the data. The techniques applied where: Pricipal Components Analysis; Clustering and Liner Regression.
 
 # Storing and Retriving Data Projects 
-This folder contains different projects and Machine Learning methods are used in each of them.
+This folder contains different projects regarding the desing and construction of SQL Databases and Data warehouses as well as their ETL processes.
 
 ## BD Creation
 **Group Project for University**<br/>
