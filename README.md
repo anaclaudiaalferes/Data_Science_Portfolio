@@ -75,3 +75,30 @@ The analyzed data belong to a fictional company and the goal for this project is
 # Statistics Project
 **Group Project for University**<br/>
 **Python**<br/>
+The analyzed dataset it's from Kaggle and is about cereals and their public rating. The goal for this project was to apply techniques to model and explore the data. The steps were:
+1. A quick overview in the data and preprocessing process were made.
+2. Apply methods to extract information about the data. The techniques applied where: Pricipal Components Analysis; Clustering and Liner Regression.
+
+# Storing and Retriving Data Projects 
+This folder contains different projects and Machine Learning methods are used in each of them.
+
+## BD Creation
+**Group Project for University**<br/>
+**SQL**<br/>
+The goal for this project was to design and create a relational database in MySQL for a small online shop of any products and/or services. The online shop is fictitious and is about musical instruments. After creating the database itself we had to populated it and finally we perform several different queries in order to answer the business questions.
+
+
+## Pipeline
+**Group Project for University**<br/>
+**SQL** & **Pentaho*** platform<br/>
+For this project we had to design and create a data warehouse from a fictitious company database named CLASSICMODELS that is a retailer of scale models of classic cars. The steps were:
+1. Build in MySQL the tables from the designed data warehouse.
+2. Using the Pentaho software we build the pipeline for each separed table that correponds to the *.ktr* files
+3. In the end all the steps were combining using just one Pentaho Job file *.kjb*
+
+
+
+
+
+
+
