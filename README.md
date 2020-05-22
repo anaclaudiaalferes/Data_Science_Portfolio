@@ -90,7 +90,7 @@ The goal for this project was to design and create a relational database in MySQ
 
 ## Pipeline
 **Group Project for University**<br/>
-**SQL** & **Pentaho*** platform<br/>
+**SQL** & **Pentaho** platform<br/>
 For this project we had to design and create a data warehouse from a fictitious company database named CLASSICMODELS that is a retailer of scale models of classic cars. The steps were:
 1. Build in MySQL the tables from the designed data warehouse.
 2. Using the Pentaho software we build the pipeline for each separed table that correponds to the *.ktr* files
